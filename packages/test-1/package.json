@@ -14,7 +14,7 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo test-1"
   },
   "dependencies": {
     "lodash": "^4.17.21",
