@@ -5,7 +5,7 @@
     "packages/*"
   ],
   "scripts": {
-    "version": "pnpm install --lockfile-only"
+    "version": "pnpm install --lockfile-only && git add pnpm-lock.yaml"
   },
   "devDependencies": {
     "lerna": "^5.3.0"
