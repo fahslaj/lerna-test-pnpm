@@ -4,9 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "scripts": {
-    "version": "pnpm install --lockfile-only && git add pnpm-lock.yaml"
-  },
+  "scripts": {},
   "devDependencies": {
     "lerna": "^5.3.0"
   },
