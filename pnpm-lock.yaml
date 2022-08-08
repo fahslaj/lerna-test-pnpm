@@ -11,7 +11,7 @@ importers:
   packages/test-1:
     specifiers:
       lodash: ^4.17.21
-      test-2: workspace:^1.0.10
+      test-2: workspace:^1.1.0
     dependencies:
       lodash: 4.17.21
       test-2: link:../test-2
